@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GTalk</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">{GTALK}</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_tools">Profile</string>
+    <string name="menu_log_out">Sign Out</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_create_group">Create Group</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+    <style name="AlertDialog" parent="Theme.AppCompat.Light.Dialog"></style>
+
+</resources>
